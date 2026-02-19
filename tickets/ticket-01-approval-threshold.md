@@ -1,6 +1,6 @@
 # Ticket 01 – Purchase Requisition Stuck in Approval
 
-## User Issue
+## User Issue:
 “This application worked yesterday, now it’s broken.”
 ### System: 
 SAP S/4HANA
