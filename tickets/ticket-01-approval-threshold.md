@@ -1,4 +1,4 @@
-# Ticket 01 – Purchase Requisition Stuck in Approval
+# Ticket 01 – Application Failure
 
 ## User Issue:
 “This application worked yesterday, now it’s broken.”
