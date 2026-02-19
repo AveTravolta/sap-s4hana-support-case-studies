@@ -23,9 +23,9 @@ These simulations reflect how a **junior SAP or ERP support analyst** operates i
 > ⚠️ All scenarios are simulated. No system configuration or administrative access is represented.
 
 ## Contents
-- **Ticket 01:** Purchase Requisition Approval Threshold  
+- **Ticket 01:** Application Failure 
 - **Ticket 02:** Missing SAP Fiori Tile Due to Role Assignment  
-- **Ticket 03:** Authorization-Related Access Error  
+- **Ticket 03:** Purchase Requisition Approval Threshold   
 
 ## Skills Demonstrated
 - SAP S/4HANA support concepts and terminology  
